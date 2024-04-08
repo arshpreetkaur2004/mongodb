@@ -1,0 +1,7 @@
+﻿"""queries"""
+
+Retrieve all cases for a specific client
+Retrieve all court dates for a specific case
+ Retrieve all cases with a particular status
+Retrieve all cases with their corresponding client information
+Retrieve all court dates within a specific date range
